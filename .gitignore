@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Build
+Debug/
+
+# vs stuff
+.vs/
